@@ -1,7 +1,7 @@
 # Customer Churn Analysis for a Telecommunications Company
 
 ## Overview
-This project analyzes customer churn for a telecommunications company named SpeedyCall. The study focuses on identifying customer groups with higher churn risk and providing business recommendations to improve customer retention.
+This project analyzes customer churn for a telecommunications company named SpeedyCall. The aim was to identify customer groups with higher churn risk and provide business recommendations to improve customer retention.
 
 ## Dataset
 The analysis was based on customer churn data containing 7,043 customers.
@@ -15,7 +15,6 @@ The analysis was based on customer churn data containing 7,043 customers.
 ## Methods Used
 - Descriptive analysis
 - Bar charts
-- Multiple bar charts
 - Percentage component bar charts
 - Chi-square tests of independence
 - Categorical data analysis
